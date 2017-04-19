@@ -1,0 +1,20 @@
+D:\Users\Project 2017\LoginServer\LoginServer\bin\Debug\LoginServer.dll
+D:\Users\Project 2017\LoginServer\LoginServer\bin\Debug\LoginServer.pdb
+D:\Users\Project 2017\LoginServer\LoginServer\bin\Debug\ExitGamesLibs.dll
+D:\Users\Project 2017\LoginServer\LoginServer\bin\Debug\Photon.SocketServer.dll
+D:\Users\Project 2017\LoginServer\LoginServer\bin\Debug\ExitGamesLibs.pdb
+D:\Users\Project 2017\LoginServer\LoginServer\bin\Debug\ExitGamesLibs.xml
+D:\Users\Project 2017\LoginServer\LoginServer\bin\Debug\Photon.SocketServer.pdb
+D:\Users\Project 2017\LoginServer\LoginServer\bin\Debug\Photon.SocketServer.xml
+D:\Users\Project 2017\LoginServer\LoginServer\bin\Debug\Photon.SocketServer.dll.config
+D:\Program Files\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoginServer\bin\LoginServer.dll
+D:\Program Files\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoginServer\bin\LoginServer.pdb
+D:\Users\Project 2017\LoginServer\LoginServer\obj\Debug\LoginServer.dll
+D:\Users\Project 2017\LoginServer\LoginServer\obj\Debug\LoginServer.pdb
+E:\User\VS Project\LoginServer\LoginServer\obj\Debug\LoginServer.csprojResolveAssemblyReference.cache
+E:\User\VS Project\LoginServer\LoginServer\obj\Debug\LoginServer.dll
+E:\User\VS Project\LoginServer\LoginServer\obj\Debug\LoginServer.pdb
+D:\Program Files (x86)\Photon\deploy\LoginServer\LoginServer.dll
+D:\Program Files (x86)\Photon\deploy\LoginServer\LoginServer.pdb
+D:\Program Files (x86)\Photon\deploy\LoginServer\bin\LoginServer.dll
+D:\Program Files (x86)\Photon\deploy\LoginServer\bin\LoginServer.pdb
